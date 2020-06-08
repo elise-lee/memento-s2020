@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Name Recorder</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Record</string>
+    <string name="previous">Confirm name</string>
+
+    <string name="hello_first_fragment">Press button below to begin recording.</string>
+    <string name="hello_second_fragment">When you finish recording, hit confirm for Memento to remember this name!</string>
+</resources>
